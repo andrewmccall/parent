@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>parent</artifactId>
     <groupId>com.andrewmccall</groupId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
 
     <description>Parent pom setting all the defaults for my projects.</description>
@@ -32,8 +32,8 @@
 
     <scm>
         <url>http://github.com/andrewmccall/parent</url>
-        <connection>scm:git:git://github.com/andrewmccall/parent.git</connection>
-        <developerConnection>scm:git:git://git@github.com/andrewmccall/parent.git</developerConnection>
+        <connection>scm:git:git@github.com:andrewmccall/parent.git</connection>
+        <developerConnection>scm:git:git@github.com:andrewmccall/parent.git</developerConnection>
     </scm>
 
     <properties>
